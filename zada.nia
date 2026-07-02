@@ -1,0 +1,908 @@
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Procesor osiąga 92C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. System Windows działa potwornie wolno.
+15
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Brak wolnego miejsca na partycji.
+20
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Komputer działa pod kontrolą przestarzałego oprogramowania, systemd spowalnia bootowanie o dwie minuty. Błędy zapisu bazy na karcie SD.
+35
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Napuchnięte kondensatory na płycie.
+50
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+50
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+25
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+40
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+35
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+35
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+20
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+15
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Brak wolnego miejsca na partycji systemowej NVMe. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+50
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+50
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+30
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Błędy zapisu bazy na karcie SD. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. System Windows działa potwornie wolno.
+20
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. System operacyjny zgłasza błędy pamięci RAM. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+40
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. System Windows działa potwornie wolno.
+20
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+40
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+25
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. System Windows działa potwornie wolno.
+30
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+35
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+20
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+25
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+50
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+30
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+15
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+25
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Brak wolnego miejsca na partycji systemowej NVMe. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+50
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+15
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Dysk HDD wykazuje relokowane sektory. System Windows działa potwornie wolno.
+35
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Brak wolnego miejsca na partycji systemowej NVMe. System Windows działa potwornie wolno.
+15
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Błędy zapisu bazy na karcie SD. System Windows działa potwornie wolno.
+50
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+50
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+45
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+30
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+50
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Dysk HDD wykazuje relokowane sektory. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+15
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+35
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+50
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+20
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+30
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. System Windows działa potwornie wolno.
+15
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+40
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Brak wolnego miejsca na partycji systemowej NVMe. System Windows działa potwornie wolno.
+35
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+40
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+30
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System Windows działa potwornie wolno.
+40
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+40
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Brak wolnego miejsca na partycji systemowej NVMe. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System Windows działa potwornie wolno.
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. System Windows działa potwornie wolno.
+20
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+15
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. System Windows działa potwornie wolno.
+20
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+20
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Błędy zapisu bazy na karcie SD. System Windows działa potwornie wolno.
+25
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. System operacyjny zgłasza błędy pamięci RAM. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+45
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+40
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Brak wolnego miejsca na partycji systemowej NVMe. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+25
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Błędy zapisu bazy na karcie SD. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+15
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). System operacyjny zgłasza błędy pamięci RAM. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+25
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+20
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+20
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+25
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+40
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+40
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+25
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+25
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. System Windows działa potwornie wolno.
+20
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+40
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+15
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System Windows działa potwornie wolno.
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+40
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+35
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Brak wolnego miejsca na partycji systemowej NVMe. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+15
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Błędy zapisu bazy na karcie SD. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+35
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Brak wolnego miejsca na partycji systemowej NVMe. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Błędy zapisu bazy na karcie SD. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+30
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+35
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+25
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+25
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). System operacyjny zgłasza błędy pamięci RAM. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+45
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+50
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. System operacyjny zgłasza błędy pamięci RAM. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+40
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+20
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+25
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+35
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Brak wolnego miejsca na partycji systemowej NVMe. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. System operacyjny zgłasza błędy pamięci RAM. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+20
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+20
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+25
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System Windows działa potwornie wolno.
+40
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+50
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Brak wolnego miejsca na partycji systemowej NVMe. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+15
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+15
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Błędy zapisu bazy na karcie SD. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+50
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+20
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+20
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+35
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+50
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+40
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+35
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+25
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+25
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+50
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+35
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Brak wolnego miejsca na partycji systemowej NVMe. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+30
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+35
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+50
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+25
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. System Windows działa potwornie wolno.
+30
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+15
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+50
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Błędy zapisu bazy na karcie SD. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+30
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+15
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+40
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+35
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Brak wolnego miejsca na partycji systemowej NVMe. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+50
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Brak wolnego miejsca na partycji systemowej NVMe. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Błędy zapisu bazy na karcie SD. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+30
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+50
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+30
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+45
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System Windows działa potwornie wolno.
+50
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+35
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+30
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+50
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. System Windows działa potwornie wolno.
+20
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+40
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). System operacyjny zgłasza błędy pamięci RAM. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+45
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+50
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+50
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Brak wolnego miejsca na partycji systemowej NVMe. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+15
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+25
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+30
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+20
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+35
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Brak wolnego miejsca na partycji systemowej NVMe. System Windows działa potwornie wolno.
+35
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+25
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+35
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+40
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+30
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Brak wolnego miejsca na partycji systemowej NVMe. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+40
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Błędy zapisu bazy na karcie SD. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+35
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Dysk HDD wykazuje relokowane sektory. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+15
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. System Windows działa potwornie wolno.
+50
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System Windows działa potwornie wolno.
+40
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+45
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+45
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+50
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+35
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+35
+
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+30
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+50
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+40
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+35
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. System Windows działa potwornie wolno.
+40
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Brak wolnego miejsca na partycji systemowej NVMe. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+35
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+35
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System Windows działa potwornie wolno.
+50
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. System Windows działa potwornie wolno.
+25
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+15
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+25
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+35
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Błędy zapisu bazy na karcie SD. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+50
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+25
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+15
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Brak wolnego miejsca na partycji systemowej NVMe. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Brak wolnego miejsca na partycji systemowej NVMe. System Windows działa potwornie wolno.
+25
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+25
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Brak wolnego miejsca na partycji systemowej NVMe. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+20
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System Windows działa potwornie wolno.
+15
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Dysk HDD wykazuje relokowane sektory. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+30
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Błędy zapisu bazy na karcie SD. System Windows działa potwornie wolno.
+40
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+25
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Dysk HDD wykazuje relokowane sektory. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+45
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+50
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. System operacyjny zgłasza błędy pamięci RAM. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+50
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Dysk HDD wykazuje relokowane sektory. System Windows działa potwornie wolno.
+35
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+20
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Brak wolnego miejsca na partycji systemowej NVMe. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+20
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Błędy zapisu bazy na karcie SD. System Windows działa potwornie wolno.
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+45
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Brak wolnego miejsca na partycji systemowej NVMe. Systemd spowalnia bootowanie o dwie minuty przez wiszącą usługę sieciową.
+35
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+50
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Obudowa pęknięta przy zawiasie. Matryca miga przy poruszaniu klapą. System Windows działa potwornie wolno.
+15
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Błędy zapisu bazy na karcie SD. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+30
+
+Audyt stanowiska dyspozytora (Komputer biurowy)
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+20
+Reanimacja komputera diagnostycznego przy silosie
+Wyniki przeglądu: Procesor osiąga 92°C pod małym obciążeniem. Błędy zapisu bazy na karcie SD. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+40
+
+Konfiguracja terminala kasowego w punkcie obsługi
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Dysk HDD wykazuje relokowane sektory. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+30
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System zaśmiecony aplikacjami startowymi, brakuje RAMu (4 GB).
+45
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. Dysk HDD wykazuje relokowane sektory. Złośliwe oprogramowanie (adware) blokuje dostęp do narzędzi administracyjnych.
+45
+
+Przegląd serwera dokumentacji w archiwum
+Wyniki przeglądu: Zasilacz pod obciążeniem piszczy cewkami, komputer samoczynnie się restartuje. Błędy zapisu bazy na karcie SD. Baza danych PostgreSQL uszkodzona po nagłym zaniku napięcia.
+40
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Taśma sygnałowa dysku SSD wykazuje błędy CRC w SMART. System Windows działa potwornie wolno.
+40
+
+Optymalizacja komputera sterującego wagą najazdową
+Wyniki przeglądu: Wiatrak na karcie graficznej wydaje metaliczne dźwięki i cyklicznie staje. System operacyjny zgłasza błędy pamięci RAM. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+35
+
+Odzyskiwanie stacji roboczej CAD w biurze projektowym
+Wyniki przeglądu: Brak reakcji na przycisk Power. Po podmianie zasilacza komputer wstaje, ale piszczy (błąd GPU). Brak wolnego miejsca na partycji systemowej NVMe. System Windows działa potwornie wolno.
+50
+
+Modernizacja laptopa terenowego agronoma
+Wyniki przeglądu: Napuchnięte kondensatory na płycie głównej w sekcji zasilania. Błędy zapisu bazy na karcie SD. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+25
+
+Diagnostyka terminalu diagnostycznego w warsztacie
+Wyniki przeglądu: Kurz całkowicie zablokował wentylator zasilacza. System operacyjny zgłasza błędy pamięci RAM. Sterowniki karty sieciowej powodują losowe błędy Blue Screen (BSOD).
+15
