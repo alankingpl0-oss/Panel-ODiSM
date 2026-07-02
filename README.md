@@ -4,7 +4,7 @@ Panel serwisanta ODiSM. Prosta symulacja, żeby często i szybko klepać w klawi
 Wersja: 1.0
 
 # Pliki:
-## panelc.
+## panel.c
 Główny plik programu.
 
 ## zada.py
