@@ -1,5 +1,8 @@
 import random
 
+# No kurde dlaczego w Python nie ma komentarzy blokowych /* ... */!
+# To jest generator zadań.
+
 # Definicje cegiełek (szablonów) dla różnych części zadań
 
 TYPY_ZADAN = [
